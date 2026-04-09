@@ -1,0 +1,8 @@
+# Never commit credentials
+secrets.h
+
+# Arduino build artifacts
+*.elf
+*.bin
+*.hex
+build/
